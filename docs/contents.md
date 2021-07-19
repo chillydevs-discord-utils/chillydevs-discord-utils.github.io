@@ -4,7 +4,7 @@
 • [`rng()`]()
 ### Utility
 #### Epoch Timestamp Functions
-• [`NowEpoch()`]()
+• [`NowEpoch()`]()<br/>
 • [`GetEpoch()`]()
 #### Dictionary functions
 • [`UrbanDict()`]()
