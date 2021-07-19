@@ -10,7 +10,7 @@ Heres somethings you should know before using this package- this package contain
 - Discord.js v12
 
 ## Setup
-```
+```js
     const Discord = require("discord.js");
     const client = new Discord.Client();
     const Util = require("chillydevs-discord-utils");
@@ -19,7 +19,7 @@ Heres somethings you should know before using this package- this package contain
 ## Functions
 
 ### RNG
-```
+```js
     rng(min, max) 
 ```
 - `min` is the minimum number field, enter an integer.
@@ -27,7 +27,7 @@ Heres somethings you should know before using this package- this package contain
 - Returns an integer.
 
 ### EPOCH TIMESTAMP
-``` 
+```js
     NowEpoch()
     GetEpoch("Valid JS date")
 ```
@@ -35,7 +35,7 @@ Heres somethings you should know before using this package- this package contain
 - `GetEpoch()` fetches a date and returns it as an Epoch Timestamp.
 
 ### URBAN DICTIONARY
-```
+```js
     UrbanDict("Term to search")
 ```
 - Returns a promise.
