@@ -1,5 +1,5 @@
 ## Welcome 
-Heres somethings you should know before using this package- this package contains many functions that can be found everywhere. However, `pur` functions make it much easier for you- our functions are shortened so that you don't even need to spend more than a minute coding, while using our functions!
+Heres somethings you should know before using this package- this package contains many functions that can be found everywhere. However, our functions make it much easier for you- our functions are shortened so that you don't even need to spend more than a minute coding, while using our functions!
 
 ## Installation 
 **Latest installation:**
