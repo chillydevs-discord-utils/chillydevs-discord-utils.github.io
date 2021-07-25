@@ -4,7 +4,9 @@ Here‘s somethings you should know before using this package- this package cont
 
 ## Installation 
 **Latest installation:**
-- `npm i chillydevs-discord-utils@latest`
+```sh
+npm i chillydevs-discord-utils@latest
+```
 
 ## System requirements
 - Node.js v12 or higher
